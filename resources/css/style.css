@@ -18,7 +18,7 @@ body {
 
 .header--subheader {
 	font-size: 21px;
-	color: gray;
+	color: grey;
 }
 
 .link--cta {
@@ -26,3 +26,8 @@ body {
 	color: aquamarine;
 }
 
+.footer--copywrite {
+	font-size: 21px;
+	color: grey;
+	text-align: right;
+}
